@@ -23,3 +23,4 @@ public class UserController {
         return "User created. Id: %s, email: %s".formatted(user.id(), user.email());
     }
 }
+
